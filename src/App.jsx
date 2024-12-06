@@ -383,7 +383,7 @@ const CodeFlowVisualizer = () => {
     <div className="code-flow-container">
       <div className="header">
         <h1>FlowStruct</h1>
-        <h5>Switch to landscape mode on your phone to access all parts of the site.</h5>
+        <h5>On your phone, switch to landscape mode to access all parts of the site.</h5>
         <p>Transform your code into an interactive visual journey across multiple languages</p>
       </div>
       
