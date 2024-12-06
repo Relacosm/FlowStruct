@@ -2,6 +2,9 @@
 
 FlowStruct is an innovative tool that helps users visualize the flow of logic control in their code. Users can paste code snippets into the platform, and FlowStruct identifies the programming language (though not always 100% accurate) and generates an interactive flowchart to represent the code’s structure. In addition, users can view additional information about the code and download both the flowchart and the original code snippet.
 
+## Live Demos
+- **FlowStruct - Code Flow Chart Generator**: [flowstruct.vercel.app](https://flowstruct.vercel.app)
+
 ## Features
 - **Code Flowchart**: Automatically generates an interactive flowchart showing the logic flow of your code.
 - **Code Snippet Recognition**: Paste any code snippet and let FlowStruct identify the language and display its flow.
