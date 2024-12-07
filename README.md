@@ -16,7 +16,7 @@ FlowStruct is an innovative tool that helps users visualize the flow of logic co
 To use FlowStruct, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/FlowStruct.git
+git clone https://github.com/Relacosm/FlowStruct.git
 
 ```
 ## License
